@@ -1,0 +1,11 @@
+data_path:
+        <enter path where data is located>
+database_config:
+        database_name:
+               <provide name of the PostgreSQL database e.g. IEA_data>
+        database_user:
+               <provide the PostgreSQL user name with which you wish to connect e.g. postgres>
+        database_password:
+               <provide the PostgreSQL password for the corresponding user name e.g. postgres>
+        database_port:
+               <provide the port on which to connect to the database e.g. 5432>

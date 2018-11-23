@@ -1,0 +1,13 @@
+# Python-specific auxiliary files
+*.pyc
+*.bak
+*.tmp
+*-checkpoint.ipynb
+*~
+*.swp
+
+# Apple file system
+.DS_Store
+
+# credentials
+config.yaml
