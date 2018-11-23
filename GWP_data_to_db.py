@@ -24,7 +24,7 @@ dtype_std = {'name': sqlalchemy.types.String,
              'Comment': sqlalchemy.types.String,
              }
 
-tables = {'Global_warming_potential': ['GWP1.csv', dtype_std, 2007],
+tables = {'Global_warming_potential': ['GWP.csv', dtype_std, 2007],
           }
 
 for table in tables:
